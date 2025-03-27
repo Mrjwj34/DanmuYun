@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.jwj.chat.ChatApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.481 s -- in org.jwj.chat.ChatApplicationTests

@@ -4,11 +4,82 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9a8bbd9-7d5b-4426-b14b-66eb7ee1d35c" name="更改" comment="" />
+    <list default="true" id="f9a8bbd9-7d5b-4426-b14b-66eb7ee1d35c" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/client/file/CustomMultipartFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/client/notice/SendNoticeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/client/pojo/LikeNoticeAddOrDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/client/pojo/RecommendVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/client/pojo/UploadVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/client/search/SearchClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/client/video/VideoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/chat/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/chat/ChatSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/notice/comment/CommentNotice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/notice/dynamic/Dynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/notice/dynamic/DynamicToUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/notice/like/LikeNotice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/user_center/ensemble/VideoEnsemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/user_center/user_info/Privilege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/user_center/user_info/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/user_center/user_relationships/Follow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/user_center/user_relationships/IdCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/video/audience_reactions/collect/Collect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/video/audience_reactions/collect/CollectGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/video/audience_reactions/comment/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/video/audience_reactions/danmaku/Danmaku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/video/audience_reactions/ensemble/AddToEnsemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/video/audience_reactions/like/Like.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/video/audience_reactions/play/Play.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/video/video_production/upload/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/entity/video/video_production/upload/VideoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/filter/TimeBasedFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/handler/MyMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/chat/ChatMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/chat/ChatSessionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/notice/comment/CommentNoticeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/notice/dynamic/DynamicMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/notice/dynamic/DynamicToUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/notice/like/LikeNoticeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/user_center/ensemble/VideoEnsembleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/user_center/user_info/PrivilegeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/user_center/user_info/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/user_center/user_relationships/FollowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/video/audience_reactions/collect/CollectGroupMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/video/audience_reactions/collect/CollectMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/video/audience_reactions/comment/CommentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/video/audience_reactions/danmaku/DanmakuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/video/audience_reactions/ensemble/AddToEnsembleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/video/audience_reactions/like/LikeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/video/audience_reactions/play/PlayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/video/video_production/upload/VideoDataMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/mapper/video/video_production/upload/VideoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/jwj/util/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/jwj/common/CommonApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/test/java/org/jwj/common/CommonApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/test/java/org/jwj/CommonApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -25,6 +96,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2utvxqOErDFfFlaQYIej20AeMQ2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,19 +107,38 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/Code/Java/Projects/aigcbilibili",
+    "last_opened_file_path": "D:/Code/Java/Projects/danmu-yun/common/src/main/java/org/jwj",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.4430147",
+    "settings.editor.selected.configurable": "database.query.execution",
     "spring.configuration.checksum": "3f21eebf77d9f6ced8d3e36b0b32fd5f",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Java\Projects\danmu-yun\common\src\main\java\org\jwj" />
+      <recent name="D:\Code\Java\Projects\danmu-yun\common\src\main\java\org\jwj\common" />
+      <recent name="D:\Code\Java\Projects\danmu-yun\common\src\main\java\org\jwj\common\entity" />
+      <recent name="D:\Code\Java\Projects\danmu-yun\common\src\main\java\org\jwj\common\entity\notice" />
+      <recent name="D:\Code\Java\Projects\danmu-yun" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean install -U" />
@@ -57,7 +150,12 @@
       <command value="mvn dependency:get -DremoteRepositories=https://mvnrepository.com/artifact/com.google.zxing/javase -DgroupId=com.google.zxing -DartifactId=javase -Dversion=3.5.1" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.整个项目">
+  <component name="RunManager" selected="数据库脚本.sql.sql">
+    <configuration name="sql.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sql.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
     <configuration name="整个项目 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -136,6 +234,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="数据库脚本.sql.sql" />
         <item itemvalue="JUnit.整个项目 (1)" />
         <item itemvalue="JUnit.整个项目" />
       </list>
@@ -159,6 +258,13 @@
       <workItem from="1743084848229" duration="2081000" />
       <workItem from="1743087269140" duration="331000" />
       <workItem from="1743087635714" duration="98000" />
+      <workItem from="1743144843634" duration="1237000" />
+      <workItem from="1743153818181" duration="787000" />
+      <workItem from="1743154620411" duration="1522000" />
+      <workItem from="1743320021344" duration="1204000" />
+      <workItem from="1744076364692" duration="595000" />
+      <workItem from="1744083551386" duration="1920000" />
+      <workItem from="1744284391720" duration="4934000" />
     </task>
     <servers />
   </component>
